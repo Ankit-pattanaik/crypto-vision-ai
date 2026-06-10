@@ -236,21 +236,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Screenshots
-
-Add screenshots here after running the app.
-
-Suggested screenshots:
-
-1. Dashboard page
-2. Coin comparison graph
-3. Technical indicators page
-4. Forecasting page
-5. Portfolio simulator
-
 ---
 
 ## 🚀 Future Improvements
